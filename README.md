@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! 🚀
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ## 📊 Mes statistiques GitHub :  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Amir42&show_icons=true&theme=radical)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=AmirIsmael&show_icons=true&theme=radical)  
 
 ## 🐍 Animation commits :  
 ![Snake animation](https://github.com/Amir42/Amir42/blob/output/github-contribution-grid-snake.svg)
