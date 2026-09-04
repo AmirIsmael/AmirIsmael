@@ -1,89 +1,272 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=220&section=header&text=Amir%20Mahavonjy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%7C%20PERN%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=220&section=header&text=Amir%20Mahavonjy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%2042%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <a href="https://portfolio1234-khaki.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:ton.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=AmirIsmael&style=for-the-badge&color=0891b2&label=Visiteurs"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%9A%80;PERN+Stack+Enthusiast;Toujours+en+train+d'apprendre;Ouvert+aux+opportunit%C3%A9s;&font=Fira+Code&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=600&height=50&duration=3000"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5d5-a112b134b3a4.gif" width="500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+JavaScript+%7C+TypeScript;React+%7C+Node.js+%7C+PostgreSQL;42+Student+%F0%9F%8E%93;Always+learning%2C+always+building;&font=Fira+Code&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=60&duration=3000"/>
 
 </div>
 
-<br/>
+---
 
-## 🧭 À propos
+## 👨‍💻 About Me
 
 ```yaml
-nom:        Amir Mahavonjy
-role:       Développeur Full Stack
-stack:      PostgreSQL · Express · React · Node.js
-bases:      C, HTML, CSS, JavaScript
-objectif:   Construire des produits solides, de la base de données à l'interface
-disponible: true
+name:        Amir Mahavonjy
+role:        Software Developer
+education:   42 Student
+focus:       Full Stack Development
+stack:       PERN
+languages:   C · C++ · JavaScript · TypeScript
+frontend:    React · Next.js · HTML · CSS
+backend:     Node.js · Express
+database:    PostgreSQL
+environment: Linux · Git · Docker
+mindset:     Build · Learn · Improve
 ```
 
-<br/>
+I'm a **Software Developer** focused on building reliable, maintainable and useful software.
 
-## 🛠️ Stack technique
+My journey combines **low-level programming** with **modern web development** — from C/C++, algorithms and system programming to React, Node.js and PostgreSQL.
+
+I'm currently focused on becoming a stronger **Full Stack Developer** while deepening my understanding of software architecture, databases, algorithms and systems programming.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,postgres,git,github&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark"/>
+
+</div>
+
+### 🌐 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark"/>
+
+</div>
+
+### ⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark"/>
+
+</div>
+
+### 🔧 Tools & Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 42 Projects
+
+| Project             | Description                                              | Technologies |
+| ------------------- | -------------------------------------------------------- | ------------ |
+| **libft**           | Personal C library implementing common utility functions | C            |
+| **ft_printf**       | Reimplementation of `printf`                             | C            |
+| **get_next_line**   | Line-by-line file reading                                | C            |
+| **push_swap**       | Sorting algorithm with constrained operations            | C            |
+| **minishell**       | Unix shell implementation                                | C            |
+| **IRC**             | Internet Relay Chat server                               | C++          |
+| **PmergeMe**        | Ford–Johnson sorting algorithm                           | C++          |
+| **BitcoinExchange** | Bitcoin price processing and date lookup                 | C++          |
+| **RPN**             | Reverse Polish Notation calculator                       | C++          |
+
+> More projects and experiments are available in my repositories.
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,postgres&theme=dark"/>
+
 </div>
 
 <br/>
 
-## 📈 Statistiques
+* Advanced TypeScript
+* Backend architecture
+* PostgreSQL & database design
+* Docker & containerization
+* REST APIs
+* Software architecture
+* Algorithms & data structures
+* System programming
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirIsmael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirIsmael&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirIsmael&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img
+src="https://github-readme-stats.vercel.app/api?username=AmirIsmael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="165"
+/>
 
-<br/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=AmirIsmael&theme=tokyonight&hide_border=true"
+height="165"
+/>
 
-## 🏆 Trophées
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirIsmael&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<br/>
-
-## 📅 Activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirIsmael&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<br/>
-
-## 🐍 Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=120&section=footer" width="100%"/>
-  <sub>Merci de ta visite — n'hésite pas à explorer mes dépôts ⭐</sub>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirIsmael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="165"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=AmirIsmael&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=AmirIsmael&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+width="90%"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+[✓] Strengthen C / C++
+[✓] Learn modern web development
+[ ] Master TypeScript
+[ ] Build production-ready Full Stack applications
+[ ] Improve PostgreSQL & database architecture
+[ ] Deepen Docker knowledge
+[ ] Build larger real-world projects
+[ ] Become a stronger Software Engineer
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://portfolio1234-khaki.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ton.email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmirIsmael&style=flat-square&color=0891b2&label=Profile+Views"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=140&section=footer"
+width="100%"
+/>
+
+<br/>
+
+<h3>「 Build. Learn. Repeat. 」</h3>
+
+<p>
+<i>Software Developer · Full Stack · 42 Student</i>
+</p>
+
+<br/>
+
+<a href="https://portfolio1234-khaki.vercel.app/">
+Portfolio
+</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
+LinkedIn
+</a>
+&nbsp; · &nbsp;
+<a href="mailto:ton.email@example.com">
+Email
+</a>
+
+<br/><br/>
+
+<sub>Thanks for visiting my profile ⭐</sub>
+
+<br/><br/>
+
+<sub>© 2026 Amir Mahavonjy</sub>
+
 </div>
