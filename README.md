@@ -159,7 +159,7 @@ height="165"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AmirIsmael&theme=tokyo-night&hide_border=true&area=true"
+src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/output/github-contribution-grid-snake-dark.svg"
 width="95%"
 />
 
@@ -172,7 +172,7 @@ width="95%"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=AmirIsmael&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/main/trophy.svg"
 width="90%"
 />
 
