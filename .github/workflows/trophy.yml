@@ -19,8 +19,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: AmirIsmael
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit et push du fichier généré
         run: |
