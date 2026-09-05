@@ -1,0 +1,31 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # tous les jours à minuit UTC
+  workflow_dispatch:        # permet de le lancer manuellement depuis l'onglet Actions
+
+jobs:
+  update-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # nécessaire pour commit le SVG dans le repo
+
+    steps:
+      - name: Checkout du repository
+        uses: actions/checkout@v4
+
+      - name: Générer le trophée
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: AmirIsmael
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit et push du fichier généré
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update trophy.svg"
+          git push
