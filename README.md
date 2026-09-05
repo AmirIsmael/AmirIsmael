@@ -4,16 +4,16 @@
 
 <br/>
 
-<a href="https://portfolio1234-khaki.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/AmirIsmael?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/AmirIsmael">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:ton.email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/AmirIsmael?tab=followers">
+<img src="https://img.shields.io/badge/Follow-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -159,7 +159,7 @@ height="165"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AmirIsmael&theme=tokyo-night&hide_border=true&area=true"
+src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/output/github-contribution-grid-snake-dark.svg"
 width="95%"
 />
 
@@ -172,7 +172,7 @@ width="95%"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=AmirIsmael&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+src="https://raw.githubusercontent.com/AmirIsmael/AmirIsmael/main/trophy.svg"
 width="90%"
 />
 
@@ -212,16 +212,16 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<a href="https://portfolio1234-khaki.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/AmirIsmael?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/AmirIsmael">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:ton.email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/AmirIsmael?tab=followers">
+<img src="https://img.shields.io/badge/Follow-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -249,16 +249,16 @@ width="100%"
 
 <br/>
 
-<a href="https://portfolio1234-khaki.vercel.app/">
-Portfolio
+<a href="https://github.com/AmirIsmael?tab=repositories">
+Projects
 </a>
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
-LinkedIn
+<a href="https://github.com/AmirIsmael">
+GitHub
 </a>
 &nbsp; · &nbsp;
-<a href="mailto:ton.email@example.com">
-Email
+<a href="https://github.com/AmirIsmael?tab=followers">
+Follow
 </a>
 
 <br/><br/>

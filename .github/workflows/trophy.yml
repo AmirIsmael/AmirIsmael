@@ -20,7 +20,7 @@ jobs:
         with:
           username: AmirIsmael
           file: trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit et push du fichier généré
         run: |
